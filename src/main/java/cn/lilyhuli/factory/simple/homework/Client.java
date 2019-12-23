@@ -9,9 +9,9 @@ public class Client {
 		CashSuper cashSuper;
 		String sale;
 
-		sale = "打8折";
+		sale = "满300反100";
 		CashSuper accept = CashFactory.createCashAccept(sale);
-		double saleMoney = accept.acceptCash(100d);
+		double saleMoney = accept.acceptCash(900d);
 		System.out.println(saleMoney);
 	}
 
