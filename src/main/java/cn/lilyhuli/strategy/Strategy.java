@@ -2,8 +2,9 @@ package cn.lilyhuli.strategy;
 
 /**
  * @author tangd-a
- * @date 2019/12/23 17:47
+ * @date 2019/12/24 10:23
  */
-public abstract class Strategy {
-	public abstract void algorithmInterface();
+public interface Strategy {
+	public void algorithmInterface();
+
 }

@@ -1,4 +1,4 @@
-package cn.lilyhuli.strategy;
+package cn.lilyhuli.strategy.lesson1;
 
 /**
  * @author tangd-a

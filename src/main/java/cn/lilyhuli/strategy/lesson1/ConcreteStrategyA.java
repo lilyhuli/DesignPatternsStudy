@@ -1,6 +1,4 @@
-package cn.lilyhuli.strategy;
-
-import java.io.Console;
+package cn.lilyhuli.strategy.lesson1;
 
 /**
  * @author tangd-a
